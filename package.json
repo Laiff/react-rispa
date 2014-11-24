@@ -1,0 +1,26 @@
+{
+  "name": "react-isomorphic",
+  "version": "0.0.0",
+  "description": "React single page Isomorphic application - boilerplate",
+  "main": "/build/main.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Laiff/react-isomorphic.git"
+  },
+  "keywords": [
+    "react",
+    "spa",
+    "isomorphic",
+    "boilerplate",
+    "react-component",
+    "functional"
+  ],
+  "author": "Andrew Laiff \"q.laiff@gmail.com\"",
+  "license": "./LICENSE",
+  "bugs": {
+    "url": "https://github.com/Laiff/react-isomorphic/issues"
+  }
+}
