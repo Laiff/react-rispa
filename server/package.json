@@ -1,0 +1,33 @@
+{
+  "name": "react-rispa-server",
+  "version": "0.0.0",
+  "description": "Reflux Isomorphic Single Page Application - server",
+  "main": "./server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Laiff/react-rispa.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "node-inspector": "~0.7.4"
+  },
+  "dependencies": {
+    "socket.io": "~1.2.1",
+    "express": "~4.10.3",
+    "body-parser": "~1.9.3",
+    "backbone": "~1.1.2",
+    "lodash": "~2.4.1",
+    "express-session": "~1.9.2",
+    "passport": "~0.2.1",
+    "passport-local": "~1.0.0",
+    "connect-flash": "~0.1.1",
+    "bcrypt-nodejs": "0.0.3",
+    "q": "~1.1.2",
+    "chokidar": "~0.11.1",
+    "compression": "~1.2.1"
+  }
+}
