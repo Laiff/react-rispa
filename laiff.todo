@@ -1,0 +1,22 @@
+Server: 
+ ☐ Using resify
+   Can we use restify with midleware from connect and express
+   ☐ Support for passport.js
+     ☐ Implement auth for g+, fb, tw, other?
+   ☐ Support for session management
+   ☐ Support for WebSocket @see(socket.io)
+ ☐ Implement basic architecture
+   ☐ Directory structure
+     ☐ Documentation for purpose for each folder 
+   ☐ Router structure
+     Modularize routing
+   ☐ React rendered template
+   ☐ Serving static files
+   ☐ API server is standalone or embeded?
+ ☐ Server Rendering React application
+   ☐ Static markup. for SEO.
+   ☐ String markup 
+     ☐ initial page rendering without saving component and store state
+     ☐ with saving store state
+       ☐ Depends on reflux serialization strategy and store livecycle reflux sandbox for request scope
+   
