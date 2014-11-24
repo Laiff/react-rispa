@@ -1,11 +1,11 @@
-react-isomorphic
+react-rispa
 ================
 
-[![Build Status](http://img.shields.io/travis/Laiff/react-isomorphic/master.svg?style=flat)](https://travis-ci.org/Laiff/react-isomorphic)
-[![Build Status](http://img.shields.io/travis/Laiff/react-isomorphic/develop.svg?style=flat)](https://travis-ci.org/Laiff/react-isomorphic)
-[![License](http://img.shields.io/npm/l/react-isomorphic.svg?style=flat)](https://npmjs.org/package/react-isomorphic)
-[![Downloads](http://img.shields.io/npm/dm/react-isomorphic.svg?style=flat)](https://npmjs.org/package/react-isomorphic)
-[![Dependency Status](https://david-dm.org/Laiff/react-isomorphic.svg?style=flat)](https://david-dm.org/Laiff/react-isomorphic)
+[![Build Status](http://img.shields.io/travis/Laiff/react-rispa/master.svg?style=flat)](https://travis-ci.org/Laiff/react-rispa)
+[![Build Status](http://img.shields.io/travis/Laiff/react-rispa/develop.svg?style=flat)](https://travis-ci.org/Laiff/react-rispa)
+[![License](http://img.shields.io/npm/l/react-rispa.svg?style=flat)](https://npmjs.org/package/react-rispa)
+[![Downloads](http://img.shields.io/npm/dm/react-rispa.svg?style=flat)](https://npmjs.org/package/react-rispa)
+[![Dependency Status](https://david-dm.org/Laiff/react-rispa.svg?style=flat)](https://david-dm.org/Laiff/react-rispa)
 
 Boilerplate for isomorphic application using react reflux and other awesome tools
 

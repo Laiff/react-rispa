@@ -43,6 +43,10 @@ node_modules
 # .idea/gradle.xml
 # .idea/libraries
 
+
+## Sublime
+*.sublime*
+
 ## File-based project format
 *.ipr
 *.iws

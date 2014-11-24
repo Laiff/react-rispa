@@ -1,7 +1,7 @@
 {
-  "name": "react-isomorphic",
+  "name": "react-rispa",
   "version": "0.0.0",
-  "description": "React single page Isomorphic application - boilerplate",
+  "description": "Reflux Isomorphic Single Page Application - boilerplate",
   "main": "/build/main.js",
   "scripts": {
     "test": "gulp test"
