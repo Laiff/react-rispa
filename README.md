@@ -8,6 +8,7 @@ react-rispa
 [![Dependency Status](https://david-dm.org/Laiff/react-rispa.svg?style=flat)](https://david-dm.org/Laiff/react-rispa)
 
 Boilerplate for isomorphic application using react reflux and other awesome tools
+Implement github star manager with organize tags. Socialize?
 
 ### Instalation
  * Run ```npm install``` on base directory
