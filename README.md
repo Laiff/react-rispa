@@ -2,7 +2,6 @@ react-rispa
 ================
 
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/Laiff/react-rispa?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 [![Build Status](http://img.shields.io/travis/Laiff/react-rispa/master.svg?style=flat)](https://travis-ci.org/Laiff/react-rispa)
 [![Build Status](http://img.shields.io/travis/Laiff/react-rispa/develop.svg?style=flat)](https://travis-ci.org/Laiff/react-rispa)
 [![License](http://img.shields.io/npm/l/react-rispa.svg?style=flat)](https://npmjs.org/package/react-rispa)
@@ -10,7 +9,7 @@ react-rispa
 [![Dependency Status](https://david-dm.org/Laiff/react-rispa.svg?style=flat)](https://david-dm.org/Laiff/react-rispa)
 
 Boilerplate for isomorphic application using react reflux and other awesome tools
-Implement github star manager with organize tags. Socialize?
+Implement github star manager with organize tags. 
 
 ### Instalation
  * Run ```npm install``` on base directory
