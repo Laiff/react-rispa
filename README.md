@@ -1,6 +1,8 @@
 react-rispa
 ================
 
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/Laiff/react-rispa?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](http://img.shields.io/travis/Laiff/react-rispa/master.svg?style=flat)](https://travis-ci.org/Laiff/react-rispa)
 [![Build Status](http://img.shields.io/travis/Laiff/react-rispa/develop.svg?style=flat)](https://travis-ci.org/Laiff/react-rispa)
 [![License](http://img.shields.io/npm/l/react-rispa.svg?style=flat)](https://npmjs.org/package/react-rispa)
