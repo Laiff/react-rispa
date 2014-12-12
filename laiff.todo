@@ -13,6 +13,7 @@ Server:
    ☐ React rendered template
    ☐ Serving static files
    ☐ API server is standalone or embeded?
+   ☐  Reflux isomorphic and lifecycle
  ☐ Server Rendering React application
    ☐ Static markup. for SEO.
    ☐ String markup 
